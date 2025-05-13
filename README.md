@@ -7,7 +7,7 @@ This is a technical and personal showcase of the tools, languages, and technolog
 
 ---
 
-##  🤖 *Machine Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Machine-Learning.git)*
+## 🤖 *Machine Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Machine-Learning.git)*
 
 *Developed in **Python**, this project demonstrates a complete supervised learning pipeline for a real-world regression problem: predicting Airbnb listing prices.*
 
