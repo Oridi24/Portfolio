@@ -76,6 +76,6 @@ This is a technical and personal showcase of the tools, languages, and technolog
 
 ---
 
-📫 ***[Let’s connect on LinkedIn](https://www.linkedin.com/in/your-profile-here)*** 
+📫 ***[Let’s connect on LinkedIn](www.linkedin.com/in/orionis-di-ciaccio-168592185)*** 
  
 
