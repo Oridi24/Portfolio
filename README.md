@@ -17,16 +17,16 @@ This is a technical and personal showcase of the tools, languages, and technolog
 - *Models used: `Ridge`, `Lasso`, `DecisionTreeRegressor`, `HistGradientBoostingRegressor`, `LightGBM`*
 
 
-## ☁️ *Big Data Architecture (GCP + Hadoop*):  ➡️ *[View Repository](https://github.com/Oridi24/Machine-Learning.git)*
+## ☁️ *Big Data Architecture (GCP + Hadoop*):  ➡️ *[View Repository](https://github.com/Oridi24/BD-Architecture.git)*
 
 *Design and deployment of Big Data systems using **Google Cloud Platform** and the **Hadoop** ecosystem.*
 
 ***Technologies explored:***
 - *Distributed Hadoop architecture*  
-- *Google Cloud Dataproc for large-scale processing  , virtual machines via Compute Engine, private networks (VPC), Cloud Storage buckets, and more*
+- *Google Cloud Dataproc for large-scale processing, virtual machines via Compute Engine, private networks (VPC), Cloud Storage buckets, and more*
 
 
-## 🌐*SQL*: ➡️ *[View Repository](https://github.com/Oridi24/Machine-Learning.git)*
+## 🌐*SQL*: ➡️ *[View Repository](https://github.com/Oridi24/SQL-Activities.git)*
 
 *Hands-on exercises using **SQL**, focused on querying relational databases.*
 
