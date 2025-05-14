@@ -6,6 +6,8 @@ This is a technical and personal showcase of the tools, languages, and technolog
 *Each section includes a brief description and a direct link to the corresponding repository. Feel free to explore, learn, and hopefully find some inspiration!*
 
 ---
+## 🧠 *Deep Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Deep-Learning.git)*
+***Currently Working on this...***
 
 ## 🤖 *Machine Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Machine-Learning.git)*
 
@@ -34,7 +36,7 @@ This is a technical and personal showcase of the tools, languages, and technolog
 - *Joins, subqueries, aggregation functions, filtering and conditional logic,real-world data analysis practice*
 
 
-## </> *Python for Data Analysis*:  ➡️ *[View Repository](https://github.com/Oridi24/Python-Activities.git))*
+## 💻 *Python for Data Analysis*:  ➡️ *[View Repository](https://github.com/Oridi24/Python-Activities.git))*
 
 *Practical Python applications for working with structured datasets.*
 
