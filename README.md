@@ -24,7 +24,7 @@ This is a technical and personal showcase of the tools, languages, and technolog
 *Design and deployment of Big Data systems using **Google Cloud Platform** and the **Hadoop** ecosystem.*
 
 ***Technologies explored:***
-- *Distributed Hadoop architecture*  
+- *Distributed Hadoop architecture: `Hive`, `ElasticSearch(Apache)`, `HBase`, `HDFS`, `YARN`**  
 - *Google Cloud Dataproc for large-scale processing, virtual machines via Compute Engine, private networks (VPC), Cloud Storage buckets, and more*
 
 
