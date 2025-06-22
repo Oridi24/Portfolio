@@ -6,7 +6,7 @@ This is a technical and personal showcase of the tools, languages, and technolog
 *Each section includes a brief description and a direct link to the corresponding repository. Feel free to explore, learn, and hopefully find some inspiration!*
 
 ---
-## 📖 *Natural Language Processing (NLP)* : **Currently working on this...**
+## 📖 *Natural Language Processing (NLP)* :  ➡️ *[View Repository](https://github.com/Oridi24/Natural-Language-Processing-NLP-.git)*   **Currently working on this...**
 
 *Developed in **Python**. This project presents a complete NLP pipeline for sentiment analysis, covering the most important stages in a traditional workflow, and demonstrates a hands-on approach to solving a real-world text classification problem using classic NLP techniques and machine learning tools:*
 
