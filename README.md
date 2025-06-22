@@ -88,7 +88,7 @@ This is a technical and personal showcase of the tools, languages, and technolog
 - *Data connections from Excel, SQL, and more.*
 - *Interactive dashboard creation, Custom metrics with DAX*
   
---
+---
 ## *Final Thoughts*:
 
 *Every project here represents much more than code — it's a testament to continuous learning, perseverance, and problem-solving.*  
