@@ -1,14 +1,14 @@
 #  *My Data Journey: Portfolio Overview*
 
 *Hey there!🖖 Welcome to my portfolio.  
-This is a technical and personal showcase of the tools, languages, and technologies I’ve learned and applied on my journey through the world of **Big Data**, **Data Science**, **Machine Learning**, **Deep Learning** and **Artificial Intelligence**.*
+This is a technical and personal showcase of the tools, languages, and technologies I’ve learned and applied on my journey through the world of **Big Data**, **Data Science**, **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**.*
 
 *Each section includes a brief description and a direct link to the corresponding repository. Feel free to explore, learn, and hopefully find some inspiration!*
 
 ---
 ## 📖 *Natural Language Processing (NLP)* : **Currently working on this...**
 
-*Developed in **Python** This project presents a complete NLP pipeline for sentiment analysis, covering the most important stages in a traditional workflow, and demonstrates a hands-on approach to solving a real-world text classification problem using classic NLP techniques and machine learning tools:*
+*Developed in **Python**. This project presents a complete NLP pipeline for sentiment analysis, covering the most important stages in a traditional workflow, and demonstrates a hands-on approach to solving a real-world text classification problem using classic NLP techniques and machine learning tools:*
 
 1. ***Corpus Download & Exploratory Data Analysis (EDA)**: Visualizing the distribution of reviews, extracting frequent n-grams, plotting word clouds, and analyzing word embeddings with Word2Vec.*
 2. ***Text Preprocessing:** Implementation of a robust text cleaning function (lowercasing, punctuation and stopword removal, etc.) to prepare raw reviews for modeling.*
@@ -22,10 +22,10 @@ This is a technical and personal showcase of the tools, languages, and technolog
 *Developed in **PyTorch**, this project applies multimodal Deep Learning to predict user engagement levels for tourist Points of Interest by combining image data with structured metadata. It features a custom CNN for visual analysis, a feedforward network for tabular data, and fusion for binary classification. Includes preprocessing, geospatial clustering, normalization, training loop with early stopping, and model evaluation.*
 
 ***Technologies and libraries:***
-- *`pandas`, `numpy`, `mamatplotlib`, `seaborn`
+- `pandas`, `numpy`, `mamatplotlib`, `seaborn`
 - *`scikit-learn` for geospatial clustering (`KMeans`), normalization (`StandardScaler, MinMaxScaler`), `train/test split`.*
-- * PyTorch for neural network architecture (CNN), custom dataset class, dataloaders, model training, and evaluation
-- *`torchvision.transforms` for image preprocessing (resizing, normalization, tensor conversion)
+- *PyTorch for neural network architecture (CNN), custom dataset class, dataloaders, model training, and evaluation.*
+- *`torchvision.transforms` for image preprocessing (resizing, normalization, tensor conversion).*
 - *`tqdm`:  real-time progress bar during training.*
 
 ---
@@ -34,8 +34,8 @@ This is a technical and personal showcase of the tools, languages, and technolog
 *Developed in **Python**, this project demonstrates a complete supervised learning pipeline for a real-world regression problem: predicting Airbnb listing prices.*
 
 ***Technologies and libraries:***
-- *`pandas`, `numpy` for data manipulation and cleaning, `matplotlib`, `seaborn` for data visualization*  
-- `scikit-learn` for modeling, cross-validation, and hyperparameter tuning*  
+- `pandas`, `numpy` *for data manipulation and cleaning, `matplotlib`, `seaborn` for data visualization*  
+- `scikit-learn` *for modeling, cross-validation, and hyperparameter tuning*  
 - *Models used: `Ridge`, `Lasso`, `DecisionTreeRegressor`, `HistGradientBoostingRegressor`, `LightGBM`*
 
 ---
