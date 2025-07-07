@@ -3,7 +3,7 @@
 *Hey there!🖖 Welcome to my portfolio.  
 > *“Learning to code is learning to think. And thinking with data is learning to see the world in a new way.”*
 
-This is a technical and personal showcase of the tools, languages, and technologies I’ve learned and applied on my journey through the world of **Big Data**, **Data Science**, **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**.*
+*This is a technical and personal showcase of the tools, languages, and technologies I’ve learned and applied on my journey through the world of **Big Data**, **Data Science**, **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**.*
 
 *Each section includes a brief description and a direct link to the corresponding repository. Feel free to explore, learn, and hopefully find some inspiration!*
 
