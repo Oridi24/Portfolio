@@ -85,6 +85,18 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 - *Joins, subqueries, aggregation functions, filtering, and conditional logic, real-world data analysis practice.*
 
 ---
+
+## 📊 *Power BI:*  ➡️ *[View Repository](https://github.com/Oridi24/Power-BI-KC.git)*
+> *"Data that speaks. Insights that lead. -See your data come alive: empower decisions with every click."*
+
+*Creating data storytelling with visual design*
+
+***Key skills:***   
+- *Data connections from Excel, SQL, and more.*
+- *Interactive dashboard creation, Custom metrics with DAX*
+
+---
+
 ## 📈 *Statistics & Linear Algebra*:  ➡️ *[View Repository](https://github.com/Oridi24/Statistics-Linear-Algebra-Data-Minning.git)*
 
 *Projects developed in **R**, focused on statistical analysis from foundational concepts to applied techniques.*
@@ -99,16 +111,6 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 ## 💻 *Python for Data Analysis*:  ➡️ *[View Repository](https://github.com/Oridi24/Python-Activities.git))*
 
 *Practical Python applications for working with structured datasets.*
-
----
-
-## 📊 *Power BI:*  ➡️ *[View Repository](https://github.com/Oridi24/Power-BI-KC.git)*
-
-*Creating data storytelling with visual design*
-
-***Key skills:***   
-- *Data connections from Excel, SQL, and more.*
-- *Interactive dashboard creation, Custom metrics with DAX*
 
 ---
 
