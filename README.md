@@ -6,6 +6,16 @@ This is a technical and personal showcase of the tools, languages, and technolog
 *Each section includes a brief description and a direct link to the corresponding repository. Feel free to explore, learn, and hopefully find some inspiration!*
 
 ---
+## 🤖 *Machine Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Machine-Learning.git)*
+
+*Developed in **Python**, this project demonstrates a complete supervised learning pipeline for a real-world regression problem: predicting Airbnb listing prices.*
+
+***Technologies and libraries:***
+- `pandas`, `numpy` *for data manipulation and cleaning, `matplotlib`, `seaborn` for data visualization*  
+- `scikit-learn` *for modeling, cross-validation, and hyperparameter tuning*  
+- *Models used: `Ridge`, `Lasso`, `DecisionTreeRegressor`, `HistGradientBoostingRegressor`, `LightGBM`*
+
+---
 ## 📖 *Natural Language Processing (NLP)* :  ➡️ *[View Repository](https://github.com/Oridi24/Natural-Language-Processing-NLP-.git)*   **Currently working on this...**
 
 *Developed in **Python**. This project presents a complete NLP pipeline for sentiment analysis, covering the most important stages in a traditional workflow, and demonstrates a hands-on approach to solving a real-world text classification problem using classic NLP techniques and machine learning tools:*
@@ -27,16 +37,6 @@ This is a technical and personal showcase of the tools, languages, and technolog
 - *PyTorch for neural network architecture (CNN), custom dataset class, dataloaders, model training, and evaluation.*
 - *`torchvision.transforms` for image preprocessing (resizing, normalization, tensor conversion).*
 - *`tqdm`:  real-time progress bar during training.*
-
----
-## 🤖 *Machine Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Machine-Learning.git)*
-
-*Developed in **Python**, this project demonstrates a complete supervised learning pipeline for a real-world regression problem: predicting Airbnb listing prices.*
-
-***Technologies and libraries:***
-- `pandas`, `numpy` *for data manipulation and cleaning, `matplotlib`, `seaborn` for data visualization*  
-- `scikit-learn` *for modeling, cross-validation, and hyperparameter tuning*  
-- *Models used: `Ridge`, `Lasso`, `DecisionTreeRegressor`, `HistGradientBoostingRegressor`, `LightGBM`*
 
 ---
 ## ☁️ *Big Data Architecture (GCP + Hadoop*):  ➡️ *[View Repository](https://github.com/Oridi24/BD-Architecture.git)*
