@@ -40,7 +40,7 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 
 ---
 
-## 🧠 *Deep Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Deep-Learning.git)*           **Currently Working on this...**
+## 🧠 *Deep Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Deep-Learning.git)*          
 > *"Not just learning —> Deep learning: Discovering patterns humans can’t see."*
 
 *Developed in **PyTorch**, this project applies multimodal Deep Learning to predict user engagement levels for tourist Points of Interest by combining image data with structured metadata. It features a custom CNN for visual analysis, a feedforward network for tabular data, and fusion for binary classification. Includes preprocessing, geospatial clustering, normalization, training loop with early stopping, and model evaluation.*
@@ -54,7 +54,7 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 
 ---
 
-## 📖 *Natural Language Processing (NLP)* :  ➡️ *[View Repository](https://github.com/Oridi24/Natural-Language-Processing-NLP-.git)*   **Currently working on this...**
+## 📖 *Natural Language Processing (NLP)* :  ➡️ *[View Repository](https://github.com/Oridi24/Natural-Language-Processing-NLP-.git)*  
 > *"AI that understands your words: that’s NLP."*
 
 *Developed in **Python**. This project presents a complete NLP pipeline for sentiment analysis, covering the most important stages in a traditional workflow, and demonstrates a hands-on approach to solving a real-world text classification problem using classic NLP techniques and machine learning tools:*
