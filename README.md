@@ -67,9 +67,9 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 ---
 
 ## ☁️ *Big Data Architecture (GCP + Hadoop*):  ➡️ *[View Repository](https://github.com/Oridi24/BD-Architecture.git)*
-> *De comandos en local a flujos distribuidos en la nube: este proyecto demuestra cómo construir una arquitectura de Big Data real en GCP, integrando herramientas de código abierto con servicios cloud gestionados.*
-
-*Design and deployment of Big Data systems using **Google Cloud Platform** and the **Hadoop** ecosystem.*
+> *"From local commands to distributed flows in the cloud."*
+ 
+*Design and deployment of Big Data systems using **Google Cloud Platform** and the **Hadoop** ecosystem. 
 
 ***Technologies explored:***
 - *Distributed Hadoop architecture: `Hive`, `ElasticSearch(Apache)`, `HBase`, `HDFS`, `YARN`**  
