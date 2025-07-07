@@ -46,7 +46,8 @@ This is a technical and personal showcase of the tools, languages, and technolog
 ***Technologies explored:***
 - *Distributed Hadoop architecture: `Hive`, `ElasticSearch(Apache)`, `HBase`, `HDFS`, `YARN`**  
 - *Google Cloud Dataproc for large-scale processing, virtual machines via Compute Engine, private networks (VPC), Cloud Storage buckets, and more*
-
+> *De comandos en local a flujos distribuidos en la nube: este proyecto demuestra cómo construir una arquitectura de Big Data real en GCP, integrando herramientas de código abierto con servicios cloud gestionados.*
+> 
 ---
 ## 🌐*SQL*: ➡️ *[View Repository](https://github.com/Oridi24/SQL-Activities.git)*
 
