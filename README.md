@@ -26,6 +26,20 @@
 💡 *Special focus on avoiding data leakage and optimizing model generalization through stratified validation and careful pipeline design.*
 
 ---
+
+## 📖 *Natural Language Processing (NLP)* :  ➡️ *[View Repository](https://github.com/Oridi24/Natural-Language-Processing-NLP-.git)*  
+> *"AI that understands your words: that’s NLP."*
+
+*This project presents a complete NLP pipeline for a binary sentiment classifier applied to over 150,000 Amazon gourmet product reviews, covering the most important stages in a traditional workflow, and demonstrates a hands-on approach to solving a real-world text classification problem using classic NLP techniques and machine learning tools:*
+
+1. ***Corpus Download & Exploratory Data Analysis (EDA)**: Visualizing the distribution of reviews, extracting frequent n-grams, plotting word clouds, and analyzing word embeddings with Word2Vec.*
+2. ***Text Preprocessing:** Implementation of a robust text cleaning function (lowercasing, punctuation and stopword removal, etc.) to prepare raw reviews for modeling.*
+3. ***Model Training & Evaluation:** Training and comparing two different machine learning models using a Bag-of-Words representation, evaluating their performance with precision, recall, and F1-score.*
+4. ***Final Report & Conclusions:** Interpretation of results, final model selection, and insights about potential improvements.*
+
+
+---
+
  ## 🚀 *Algorithms deployment MLOps* ➡️ *[View Repository](https://github.com/Oridi24/Algorithms-deployment-MLOps/blob/main/README.md)*
  > *From theory to deployment: transforming models into solutions.*
 
@@ -54,17 +68,6 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 
 ---
 
-## 📖 *Natural Language Processing (NLP)* :  ➡️ *[View Repository](https://github.com/Oridi24/Natural-Language-Processing-NLP-.git)*  
-> *"AI that understands your words: that’s NLP."*
-
-*This project presents a complete NLP pipeline for a binary sentiment classifier applied to over 150,000 Amazon gourmet product reviews, covering the most important stages in a traditional workflow, and demonstrates a hands-on approach to solving a real-world text classification problem using classic NLP techniques and machine learning tools:*
-
-1. ***Corpus Download & Exploratory Data Analysis (EDA)**: Visualizing the distribution of reviews, extracting frequent n-grams, plotting word clouds, and analyzing word embeddings with Word2Vec.*
-2. ***Text Preprocessing:** Implementation of a robust text cleaning function (lowercasing, punctuation and stopword removal, etc.) to prepare raw reviews for modeling.*
-3. ***Model Training & Evaluation:** Training and comparing two different machine learning models using a Bag-of-Words representation, evaluating their performance with precision, recall, and F1-score.*
-4. ***Final Report & Conclusions:** Interpretation of results, final model selection, and insights about potential improvements.*
-
----
 
 ## ☁️ *Big Data Architecture (GCP + Hadoop*):  ➡️ *[View Repository](https://github.com/Oridi24/BD-Architecture.git)*
 > *"From local commands to distributed flows in the cloud."*
