@@ -1,6 +1,6 @@
 #  *My Data Journey: Portfolio Overview*
 
-*Hey there!🖖 Welcome to my portfolio.  
+*Hey there!🖖 Welcome to my portfolio.*  
 > *“Learning to code is learning to think. And thinking with data is learning to see the world in a new way.”*
 
 *This is a technical and personal showcase of the tools, languages, and technologies I’ve learned and applied on my journey through the world of **Big Data**, **Data Science**, **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**.*
@@ -57,7 +57,7 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 ## 📖 *Natural Language Processing (NLP)* :  ➡️ *[View Repository](https://github.com/Oridi24/Natural-Language-Processing-NLP-.git)*  
 > *"AI that understands your words: that’s NLP."*
 
-*Developed in **Python**. This project presents a complete NLP pipeline for sentiment analysis, covering the most important stages in a traditional workflow, and demonstrates a hands-on approach to solving a real-world text classification problem using classic NLP techniques and machine learning tools:*
+*This project presents a complete NLP pipeline for a binary sentiment classifier applied to over 150,000 Amazon gourmet product reviews, covering the most important stages in a traditional workflow, and demonstrates a hands-on approach to solving a real-world text classification problem using classic NLP techniques and machine learning tools:*
 
 1. ***Corpus Download & Exploratory Data Analysis (EDA)**: Visualizing the distribution of reviews, extracting frequent n-grams, plotting word clouds, and analyzing word embeddings with Word2Vec.*
 2. ***Text Preprocessing:** Implementation of a robust text cleaning function (lowercasing, punctuation and stopword removal, etc.) to prepare raw reviews for modeling.*
