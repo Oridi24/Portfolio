@@ -9,7 +9,7 @@
 
 ---
 
-## 🤖 *Machine Learning*:  ➡️ *[View Repository prediction](https://github.com/Oridi24/Machine-Learning.git)*   ➡️ *[View Repository Clasification](https://github.com/Oridi24/Machine-Learning.git)*
+## 🤖 *Machine Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Machine-Learning.git)*   
 > *"Teaching machines to see, think, and decide —> Where math meets magic: welcome to the world of Machine Learning."*
 
 *This project addresses a real-world regression challenge and a complete supervised learning pipeline: predicting Airbnb listing prices from a complex, noisy dataset obtained via web scraping.*
