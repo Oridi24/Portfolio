@@ -7,7 +7,39 @@
 
 *Each section includes a brief description and a direct link to the corresponding repository. Feel free to explore, learn, and hopefully find some inspiration!*
 
+
 ---
+
+## 🚀 *Case study: Machine Learning + MLOps*  ➡️ *[View Repository](https://github.com/Oridi24/Case-study-Traffic-Accident-prediction-ML-MLOPs.git)*   
+> *"Imbalanced data? Welcome to real life… and rush hour traffic."*
+
+📌 *Traffic Accident Severity Prediction: Case Study Description:*
+*Road traffic accidents have a significant social and economic impact. This project develops a Machine Learning model to predict whether an accident will be minor (0) or severe (1), based on contextual factors such as road conditions, weather, time, and number of vehicles involved.*
+
+🔎 *Challenge: Highly imbalanced dataset (~80% minor, 20% severe).*
+
+⭐ *Approach: Preprocessing, feature engineering, cross-validation, and testing multiple algorithms.* 
+
+***Results:***
+ - ✅ *Balanced Random Forest delivered the best trade-off, with strong recall for severe accidents.*
+
+  ***Development Methodology:***
+
+1. *Data Preprocessing*
+2. *Model Training & Evaluation:*
+    - ***Algorithms tested**: Decision Trees, Random Forest, Gradient Boosting, XGBoost, Logistic Regression (with class weights and SMOTE), Balanced Random Forest, and Easy Ensemble.*
+3. *Validation techniques: StratifiedKFold for ensemble methods and GridSearchCV for hyperparameter tuning.*
+4. *Metrics for Performance Assessment:*
+    - *Precision: how many predicted positives were correct.*
+    - *Recall (Sensitivity): how many actual positives were identified.*
+    - *F1-score: harmonic mean of Precision and Recall, useful for imbalanced datasets.*
+    - *ROC-AUC: ability to distinguish between classes*.
+    - *Average Precision (AP): area under the Precision-Recall curve, focusing on minority class performance.*
+5. *Deployment: The final model was deployed with FastAPI as a REST endpoint (/predict), allowing real-time accident severity predictions.Output includes both the predicted class (0 = minor, 1 = severe) and the probability of a severe accident.*
+6. *Recorded Video Walkthrough: a 8-minute presentation explaining the case study, the modeling approach, and the practical implications of deploying the predictive system.*
+
+---
+
 
 ## 🤖 *Machine Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Machine-Learning.git)*   
 > *"Teaching machines to see, think, and decide —> Where math meets magic: welcome to the world of Machine Learning."*
@@ -72,7 +104,7 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 ## ☁️ *Big Data Architecture (GCP + Hadoop*):  ➡️ *[View Repository](https://github.com/Oridi24/BD-Architecture.git)*
 > *"From local commands to distributed flows in the cloud."*
  
-*Design and deployment of Big Data systems using **Google Cloud Platform** and the **Hadoop** ecosystem. 
+*Design and deployment of Big Data systems using **Google Cloud Platform** and the **Hadoop** ecosystem.* 
 
 ***Technologies explored:***
 - *Distributed Hadoop architecture: `Hive`, `ElasticSearch(Apache)`, `HBase`, `HDFS`, `YARN`**  
