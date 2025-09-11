@@ -16,12 +16,9 @@
 📌 *Traffic Accident Severity Prediction: Case Study Description:*
 *Road traffic accidents have a significant social and economic impact. This project develops a Machine Learning model to predict whether an accident will be minor (0) or severe (1), based on contextual factors such as road conditions, weather, time, and number of vehicles involved.*
 
-🔎 *Challenge: Highly imbalanced dataset (~80% minor, 20% severe).*
+***Challenge**: Highly imbalanced dataset (~80% minor, 20% severe).*
 
-⭐ *Approach: Preprocessing, feature engineering, cross-validation, and testing multiple algorithms.* 
-
-***Results:***
- - ✅ *Balanced Random Forest delivered the best trade-off, with strong recall for severe accidents.*
+***Approach**: Preprocessing, feature engineering, cross-validation, and testing multiple algorithms.* 
 
   ***Development Methodology:***
 
@@ -29,27 +26,27 @@
 2. *Model Training & Evaluation:*
     - ***Algorithms tested**: Decision Trees, Random Forest, Gradient Boosting, XGBoost, Logistic Regression (with class weights and SMOTE), Balanced Random Forest, and Easy Ensemble.*
 3. *Validation techniques: StratifiedKFold for ensemble methods and GridSearchCV for hyperparameter tuning.*
-4. *Metrics for Performance Assessment:*
-    - *Precision: how many predicted positives were correct.*
-    - *Recall (Sensitivity): how many actual positives were identified.*
-    - *F1-score: harmonic mean of Precision and Recall, useful for imbalanced datasets.*
-    - *ROC-AUC: ability to distinguish between classes*.
-    - *Average Precision (AP): area under the Precision-Recall curve, focusing on minority class performance.*
+4. *Metrics for Performance Assessment: Precision, Recall, F1-score, ROC-AUC, Average Precision.*
 5. *Deployment: The final model was deployed with FastAPI as a REST endpoint (/predict), allowing real-time accident severity predictions.Output includes both the predicted class (0 = minor, 1 = severe) and the probability of a severe accident.*
 6. *Recorded Video Walkthrough: a 8-minute presentation explaining the case study, the modeling approach, and the practical implications of deploying the predictive system.*
 
+***Results:***
+ - ✅ *Balanced Random Forest delivered the best trade-off, with strong recall for severe accidents.*
 ---
 
 
 ## 🤖 *Machine Learning*:  ➡️ *[View Repository](https://github.com/Oridi24/Machine-Learning.git)*   
 > *"Teaching machines to see, think, and decide —> Where math meets magic: welcome to the world of Machine Learning."*
 
-*This project addresses a real-world regression challenge and a complete supervised learning pipeline: predicting Airbnb listing prices from a complex, noisy dataset obtained via web scraping.*
+*This project addresses a real-world regression challenge and a complete supervised learning pipeline: predicting Airbnb listing prices from a complex, noisy dataset obtained via web scraping with over 700.000 records.*
+
+***Development Methodology:***
 
 - *Exploratory Data Analysis (EDA) and outlier detection*
 - *Robust preprocessing (missing value imputation, encoding, scaling)*
 - *Feature transformation (logarithmic, polynomial, etc.)*
 - *Model benchmarking and tuning using cross-validation*
+- *Documentation & conclusions*
   
 ***Technologies and libraries:***
 - *`pandas`, `numpy` `matplotlib`, `seaborn`,`scikit-learn`.*  
@@ -63,6 +60,8 @@
 > *"AI that understands your words: that’s NLP."*
 
 *This project presents a complete NLP pipeline for a binary sentiment classifier applied to over 150,000 Amazon gourmet product reviews, covering the most important stages in a traditional workflow, and demonstrates a hands-on approach to solving a real-world text classification problem using classic NLP techniques and machine learning tools:*
+
+***Development Methodology:***
 
 1. ***Corpus Download & Exploratory Data Analysis (EDA)**: Visualizing the distribution of reviews, extracting frequent n-grams, plotting word clouds, and analyzing word embeddings with Word2Vec.*
 2. ***Text Preprocessing:** Implementation of a robust text cleaning function (lowercasing, punctuation and stopword removal, etc.) to prepare raw reviews for modeling.*
