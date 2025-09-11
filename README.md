@@ -67,7 +67,10 @@
 2. ***Text Preprocessing:** Implementation of a robust text cleaning function (lowercasing, punctuation and stopword removal, etc.) to prepare raw reviews for modeling.*
 3. ***Model Training & Evaluation:** Training and comparing two different machine learning models using a Bag-of-Words representation, evaluating their performance with precision, recall, and F1-score.*
 4. ***Final Report & Conclusions:** Interpretation of results, final model selection, and insights about potential improvements.*
-
+   
+***Technologies and libraries:***
+- *`pandas`, `numpy` `matplotlib`, `seaborn`,`scikit-learn`.*  ⚠️
+- ***Models used**: `Ridge`, `Lasso`, `DecisionTreeRegressor`, `HistGradientBoostingRegressor`, `RandomForestRegressor`, `SVR`,`LightGBM`* ⚠️
 
 ---
 
@@ -97,6 +100,7 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 - *`torchvision.transforms` for image preprocessing (resizing, normalization, tensor conversion).*
 - *`tqdm`:  real-time progress bar during training.*
 
+⚠️ ampliar
 ---
 
 
