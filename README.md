@@ -16,9 +16,8 @@
 📌 *Traffic Accident Severity Prediction: Case Study Description:*
 *Road traffic accidents have a significant social and economic impact. This project develops a Machine Learning model to predict whether an accident will be minor (0) or severe (1), based on contextual factors such as road conditions, weather, time, and number of vehicles involved.*
 
-***Challenge**: Highly imbalanced dataset (~80% minor, 20% severe).*
-
-***Approach**: Preprocessing, feature engineering, cross-validation, and testing multiple algorithms.* 
+- ***Challenge**: Highly imbalanced dataset (~80% minor, 20% severe).*
+- ***Approach**: Preprocessing, feature engineering, cross-validation, and testing multiple algorithms.* 
 
   ***Development Methodology:***
 
