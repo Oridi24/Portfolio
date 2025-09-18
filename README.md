@@ -99,7 +99,7 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 - *`torchvision.transforms` for image preprocessing (resizing, normalization, tensor conversion).*
 - *`tqdm`:  real-time progress bar during training.*
 
-⚠️ ampliar
+⚠️ 
 ---
 
 
