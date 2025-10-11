@@ -9,8 +9,12 @@
 
 
 ---
+##  🔎*Descriptive Analysis with SQL + Python*  ➡️ *[View Repository](https://github.com/Oridi24/Analisi-con-SQL-Python.git)*   
+⚠️ working on this...
 
-## 🚀 *Case study: Machine Learning + MLOps*  ➡️ *[View Repository](https://github.com/Oridi24/Case-study-Traffic-Accident-prediction-ML-MLOPs.git)*   
+---
+
+## 🚀 *Machine Learning + MLOps*  ➡️ *[View Repository](https://github.com/Oridi24/Case-study-Traffic-Accident-prediction-ML-MLOPs.git)*   
 > *"Imbalanced data? Welcome to real life… and rush hour traffic."*
 
 📌 *Traffic Accident Severity Prediction: Case Study Description:*
@@ -121,16 +125,6 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 ***Topics include:***
 - *Joins, subqueries, aggregation functions, filtering, and conditional logic, real-world data analysis practice.*
 
----
-
-## 📊 *Power BI:*  ➡️ *[View Repository](https://github.com/Oridi24/Power-BI-KC.git)*
-> *"Data that speaks. Insights that lead. -See your data come alive: empower decisions with every click."*
-
-*Creating data storytelling with visual design*
-
-***Key skills:***   
-- *Data connections from Excel, SQL, and more.*
-- *Interactive dashboard creation, Custom metrics with DAX*
 
 ---
 
@@ -158,6 +152,16 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 ***Focus areas:***
 - *Functional programming principles with Scala.* 
 - *Spark DataFrames, RDDs, transformations and Test-Driven Development (TDD) methodology for worlflows.*
+
+---
+## 📊 *Power BI:*  ➡️ *[View Repository](https://github.com/Oridi24/Power-BI-KC.git)*
+> *"Data that speaks. Insights that lead. -See your data come alive: empower decisions with every click."*
+
+*Creating data storytelling with visual design*
+
+***Key skills:***   
+- *Data connections from Excel, SQL, and more.*
+- *Interactive dashboard creation, Custom metrics with DAX*
 
 ---
 
