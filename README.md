@@ -7,10 +7,29 @@
 
 *Each section includes a brief description and a direct link to the corresponding repository. Feel free to explore, learn, and hopefully find some inspiration!*
 
-
 ---
-##  🔎*Descriptive Analysis with SQL + Python*  ➡️ *[View Repository](https://github.com/Oridi24/Analisi-con-SQL-Python.git)*   
-⚠️ working on this...
+
+## 📊 *Customer Funnel & Conversion Analysis* ➡️ *[View Repository](https://github.com/Oridi24/Funnel-Analysis.git)*   
+> *"Turning contact data into actionable insights —> Where analytics meets business growth."*
+
+*This project explores real-world marketing funnel data from an anonymized agency, focused on understanding how leads evolve into customers.
+The analysis combines SQL, Python, and BI visualization to reveal conversion dynamics, timing patterns, and key performance drivers across the customer journey.*
+
+***Business Focus***:
+*Identify where conversions peak or drop, how long contacts take to become customers (80th percentile), and which cohorts drive the best early performance — ***guiding smarter marketing and sales decisions.****
+
+***Analytical Methodology:***
+- *Weekly conversion rate analysis.*
+- *Cohort performance (7-day / 14-day conversions).*
+- *Transition matrices (volume & timing).*
+- *Data-driven recommendations for funnel optimization.*
+
+***Technologies and tools:***
+*SQL (BigQuery), Python (pandas, numpy, matplotlib), Looker Studio / Power BI*
+
+💡 *Special focus on translating funnel metrics into actionable strategies —> connecting analytics to measurable business outcomes.*
+
+
 
 ---
 
@@ -75,19 +94,6 @@
 - *`pandas`, `numpy` `matplotlib`, `seaborn`,`scikit-learn`.*  ⚠️
 - ***Models used**: `Ridge`, `Lasso`, `DecisionTreeRegressor`, `HistGradientBoostingRegressor`, `RandomForestRegressor`, `SVR`,`LightGBM`* ⚠️
 
----
-
- ## 🚀 *Algorithms deployment MLOps* ➡️ *[View Repository](https://github.com/Oridi24/Algorithms-deployment-MLOps/blob/main/README.md)*
- > *From theory to deployment: transforming models into solutions.*
-
-*This project aims to strengthen and apply key skills in data science, machine learning engineering, and production deployment, covering the entire lifecycle of a classification model, from data exploration and training to deployment as a functional API.
-The project also integrates NLP components using Hugging Face, enabling sentiment analysis and text summarization, all exposed through RESTful endpoints powered by FastAPI*.
-
-
-- ***Understand the complete ML pipeline**, from data preparation to model evaluation and persistence.*
-- ***Refactor Jupyter notebooks into clean, modular Python scripts**, ensuring reusability and maintainability of the codebase.*
--  ***Deploy models as RESTful APIs** using FastAPI, enabling easy external interaction with the trained model.*
--  ***Integrate Natural Language Processing (NLP) tasks** with Hugging Face pipelines for real-world applications as sentiment analysis and summarization.*
 
 ---
 
@@ -106,6 +112,24 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 ⚠️ 
 ---
 
+##  🔎*Descriptive Analysis with SQL + Python*  ➡️ *[View Repository](https://github.com/Oridi24/Analisi-con-SQL-Python.git)*   
+⚠️ working on this...
+
+---
+
+ ## 🚀 *Algorithms deployment MLOps* ➡️ *[View Repository](https://github.com/Oridi24/Algorithms-deployment-MLOps/blob/main/README.md)*
+ > *From theory to deployment: transforming models into solutions.*
+
+*This project aims to strengthen and apply key skills in data science, machine learning engineering, and production deployment, covering the entire lifecycle of a classification model, from data exploration and training to deployment as a functional API.
+The project also integrates NLP components using Hugging Face, enabling sentiment analysis and text summarization, all exposed through RESTful endpoints powered by FastAPI*.
+
+
+- ***Understand the complete ML pipeline**, from data preparation to model evaluation and persistence.*
+- ***Refactor Jupyter notebooks into clean, modular Python scripts**, ensuring reusability and maintainability of the codebase.*
+-  ***Deploy models as RESTful APIs** using FastAPI, enabling easy external interaction with the trained model.*
+-  ***Integrate Natural Language Processing (NLP) tasks** with Hugging Face pipelines for real-world applications as sentiment analysis and summarization.*
+
+---
 
 ## ☁️ *Big Data Architecture (GCP + Hadoop*):  ➡️ *[View Repository](https://github.com/Oridi24/BD-Architecture.git)*
 > *"From local commands to distributed flows in the cloud."*
@@ -141,7 +165,7 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 
 ## 💻 *Python for Data Analysis*:  ➡️ *[View Repository](https://github.com/Oridi24/Python-Activities.git))*
 
-*Practical Python applications for working with structured datasets.*
+*Practical Python applications for working with structured datasets, applying descriptive and predictive techniques with IA algorithms.*
 
 ---
 
