@@ -112,8 +112,8 @@ The analysis combines SQL, Python, and BI visualization to reveal conversion dyn
 ⚠️ 
 ---
 
-##  🔎*Descriptive Analysis with SQL + Python*  ➡️ *[View Repository](https://github.com/Oridi24/Analisi-con-SQL-Python.git)*   
-⚠️ working on this...
+##  🔎*Descriptive & predictive analysis with SQL + Python*  ➡️ *[View Repository](https://github.com/Oridi24/Analisi-con-SQL-Python.git)*   
+⚠️ Sales performance. working on this...
 
 ---
 
