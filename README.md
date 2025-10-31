@@ -32,6 +32,7 @@ The analysis combines SQL, Python, and BI visualization to reveal conversion dyn
 ---
 
 ## 💻 *Python for Data Analysis*:  ➡️ *[View Repository](https://github.com/Oridi24/Python-Activities.git)*
+> *“Turning coffee ☕ into data insights since import `pandas`.”
 
 *Practical Python applications for working with structured datasets, applying descriptive and predictive techniques with IA algorithms.*
 
@@ -42,29 +43,7 @@ The analysis combines SQL, Python, and BI visualization to reveal conversion dyn
 
 *Hands-on exercises using **SQL**, and **BigQuery** focused on querying relational databases.*
 
----
 
-## 🚀 *Machine Learning + MLOps*  ➡️ *[View Repository](https://github.com/Oridi24/Case-study-Traffic-Accident-prediction-ML-MLOPs.git)*   
-> *"Imbalanced data? Welcome to real life… and rush hour traffic."*
-
-📌 *Traffic Accident Severity Prediction: Case Study Description:*
-*Road traffic accidents have a significant social and economic impact. This project develops a Machine Learning model to predict whether an accident will be minor (0) or severe (1), based on contextual factors such as road conditions, weather, time, and number of vehicles involved.*
-
-- ***Challenge**: Highly imbalanced dataset (~80% minor, 20% severe).*
-- ***Approach**: Preprocessing, feature engineering, cross-validation, and testing multiple algorithms.* 
-
-  ***Development Methodology:***
-
-1. *Data Preprocessing*
-2. *Model Training & Evaluation:*
-    - ***Algorithms tested**: Decision Trees, Random Forest, Gradient Boosting, XGBoost, Logistic Regression (with class weights and SMOTE), Balanced Random Forest, and Easy Ensemble.*
-3. *Validation techniques: StratifiedKFold for ensemble methods and GridSearchCV for hyperparameter tuning.*
-4. *Metrics for Performance Assessment: Precision, Recall, F1-score, ROC-AUC, Average Precision.*
-5. *Deployment: The final model was deployed with FastAPI as a REST endpoint (/predict), allowing real-time accident severity predictions.Output includes both the predicted class (0 = minor, 1 = severe) and the probability of a severe accident.*
-6. *Recorded Video Walkthrough: a 8-minute presentation explaining the case study, the modeling approach, and the practical implications of deploying the predictive system.*
-
-***Results:***
- - ✅ *Balanced Random Forest delivered the best trade-off, with strong recall for severe accidents.*
 ---
 
 
@@ -128,6 +107,30 @@ The analysis combines SQL, Python, and BI visualization to reveal conversion dyn
 
 ---
 
+## 🚀 *Machine Learning + MLOps*  ➡️ *[View Repository](https://github.com/Oridi24/Case-study-Traffic-Accident-prediction-ML-MLOPs.git)*   
+> *"Imbalanced data? Welcome to real life… and rush hour traffic."*
+
+📌 *Traffic Accident Severity Prediction: Case Study Description:*
+*Road traffic accidents have a significant social and economic impact. This project develops a Machine Learning model to predict whether an accident will be minor (0) or severe (1), based on contextual factors such as road conditions, weather, time, and number of vehicles involved.*
+
+- ***Challenge**: Highly imbalanced dataset (~80% minor, 20% severe).*
+- ***Approach**: Preprocessing, feature engineering, cross-validation, and testing multiple algorithms.* 
+
+  ***Development Methodology:***
+
+1. *Data Preprocessing*
+2. *Model Training & Evaluation:*
+    - ***Algorithms tested**: Decision Trees, Random Forest, Gradient Boosting, XGBoost, Logistic Regression (with class weights and SMOTE), Balanced Random Forest, and Easy Ensemble.*
+3. *Validation techniques: StratifiedKFold for ensemble methods and GridSearchCV for hyperparameter tuning.*
+4. *Metrics for Performance Assessment: Precision, Recall, F1-score, ROC-AUC, Average Precision.*
+5. *Deployment: The final model was deployed with FastAPI as a REST endpoint (/predict), allowing real-time accident severity predictions.Output includes both the predicted class (0 = minor, 1 = severe) and the probability of a severe accident.*
+6. *Recorded Video Walkthrough: a 8-minute presentation explaining the case study, the modeling approach, and the practical implications of deploying the predictive system.*
+
+***Results:***
+ - ✅ *Balanced Random Forest delivered the best trade-off, with strong recall for severe accidents.*
+
+---
+ 
  ## 🚀 *Algorithms deployment MLOps* ➡️ *[View Repository](https://github.com/Oridi24/Algorithms-deployment-MLOps/blob/main/README.md)*
  > *From theory to deployment: transforming models into solutions.*
 
