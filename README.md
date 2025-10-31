@@ -29,7 +29,18 @@ The analysis combines SQL, Python, and BI visualization to reveal conversion dyn
 
 💡 *Special focus on translating funnel metrics into actionable strategies —> connecting analytics to measurable business outcomes.*
 
+---
 
+## 💻 *Python for Data Analysis*:  ➡️ *[View Repository](https://github.com/Oridi24/Python-Activities.git)*
+
+*Practical Python applications for working with structured datasets, applying descriptive and predictive techniques with IA algorithms.*
+
+---
+
+## 🌐*SQL*: ➡️ *[View Repository](https://github.com/Oridi24/SQL-Activities.git)*
+> *"Select. Join. Analyze. Repeat: Query smarter, not harder."*
+
+*Hands-on exercises using **SQL**, and **BigQuery** focused on querying relational databases.*
 
 ---
 
@@ -140,15 +151,6 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 - *Distributed Hadoop architecture: `Hive`, `ElasticSearch(Apache)`, `HBase`, `HDFS`, `YARN`**  
 - *Google Cloud Dataproc for large-scale processing, virtual machines via Compute Engine, private networks (VPC), Cloud Storage buckets, and more*
 
----
-## 🌐*SQL*: ➡️ *[View Repository](https://github.com/Oridi24/SQL-Activities.git)*
-> *"Select. Join. Analyze. Repeat: Query smarter, not harder."*
-
-*Hands-on exercises using **SQL**, and **BigQuery** focused on querying relational databases.*
-
-***Topics include:***
-- *Joins, subqueries, aggregation functions, filtering, and conditional logic, real-world data analysis practice.*
-
 
 ---
 
@@ -163,11 +165,6 @@ The project also integrates NLP components using Hugging Face, enabling sentimen
 
 ---
 
-## 💻 *Python for Data Analysis*:  ➡️ *[View Repository](https://github.com/Oridi24/Python-Activities.git))*
-
-*Practical Python applications for working with structured datasets, applying descriptive and predictive techniques with IA algorithms.*
-
----
 
 ## ⚙️ *Scala & Apache Spark:*  ➡️ *[View Repository](https://github.com/Oridi24/Scala-Spark.git)*
 
